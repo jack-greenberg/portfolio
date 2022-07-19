@@ -16,7 +16,7 @@ git worktree prune
 rm -rf .git/worktrees/public/
 
 echo "Checking out gh-pages branch into public"
-git worktree add -B master public origin/master
+git worktree add -B gh-pages public origin/gh-pages
 
 echo "Removing existing files"
 rm -rf public/*
@@ -24,7 +24,7 @@ rm -rf public/*
 echo "Generating site"
 hugo --minify
 
-echo "Updating master pages branch"
+echo "Updating gh-pages pages branch"
 cd public
 echo "portfolio.jackgreenberg.co" > CNAME
 
@@ -32,6 +32,6 @@ git add --all && git commit -m "Deploy changes"
 
 #echo "Pushing to github"
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
-git push origin master
+git push origin gh-pages
 
 cd ..
