@@ -1,17 +1,16 @@
 +++
 weight = 5
 outputs = ["Reveal"]
-
-[reveal_hugo.templates.formula]
-background-image="/mkv.png"
-background-size="65%"
-background-repeat="no-repeat"
-background-position="left bottom"
 +++
 
 {{% section %}}
 
-{{< slide template="formula" >}}
+{{< slide
+  background-image = "/mkv.png"
+  background-size = "65%"
+  background-repeat = "no-repeat"
+  background-position = "left bottom"
+>}}
 
 <div style="text-align: left; margin: -2em -5em 0 0">
 
@@ -36,7 +35,12 @@ management_.
 
 ---
 
-{{< slide template="formula" >}}
+{{< slide
+  background-image = "/mkv.png"
+  background-size = "65%"
+  background-repeat = "no-repeat"
+  background-position = "left bottom"
+>}}
 
 <div style="text-align: left">
 
@@ -52,7 +56,12 @@ safety-critical code should be easy to understand and as simple as possible.
 
 ---
 
-{{< slide template="formula" >}}
+{{< slide
+  background-image = "/mkv.png"
+  background-size = "65%"
+  background-repeat = "no-repeat"
+  background-position = "left bottom"
+>}}
 
 <div style="text-align: left">
 
@@ -79,7 +88,12 @@ The state machine is diagrammed below.
 
 ---
 
-{{< slide template="formula" >}}
+{{< slide
+  background-image = "/mkv.png"
+  background-size = "65%"
+  background-repeat = "no-repeat"
+  background-position = "left bottom"
+>}}
 
 <div style="text-align: left">
 
@@ -97,7 +111,12 @@ messages.
 
 ---
 
-{{< slide template="formula" >}}
+{{< slide
+  background-image = "/mkv.png"
+  background-size = "65%"
+  background-repeat = "no-repeat"
+  background-position = "left bottom"
+>}}
 
 <div style="text-align: left">
 
