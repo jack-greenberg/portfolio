@@ -1,9 +1,19 @@
 +++
 weight = 5
+outputs = ["Reveal"]
+
+[reveal_hugo.templates.formula]
+background-image="/mkv.png"
+background-size="65%"
+background-repeat="no-repeat"
+background-position="left bottom"
 +++
+
 {{% section %}}
 
-<div style="text-align: left">
+{{< slide template="formula" >}}
+
+<div style="text-align: left; margin: -2em -5em 0 0">
 
 <img style="border: none; box-shadow: none; margin: 0;" src="/oem-logo.png"
 width="30%"/>
@@ -26,6 +36,8 @@ management_.
 
 ---
 
+{{< slide template="formula" >}}
+
 <div style="text-align: left">
 
 ### High Voltage Power Distribution
@@ -39,6 +51,8 @@ safety-critical code should be easy to understand and as simple as possible.
 </div>
 
 ---
+
+{{< slide template="formula" >}}
 
 <div style="text-align: left">
 
@@ -65,6 +79,8 @@ The state machine is diagrammed below.
 
 ---
 
+{{< slide template="formula" >}}
+
 <div style="text-align: left">
 
 ### Network Management
@@ -80,6 +96,8 @@ messages.
 </div>
 
 ---
+
+{{< slide template="formula" >}}
 
 <div style="text-align: left">
 
