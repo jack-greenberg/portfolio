@@ -8,7 +8,7 @@ Github link.
 navigate down to learn more
 🔽
 Historically, whenever we wanted to update the firmware on our circuit boards, we had to use an in-system programming (ISP) dongle and plug into each board manually.
-This often meant opening up enclosure, and required us to have a large programming header on each board, adding height and exposed copper.
+This often meant opening up enclosures, and required us to have a large programming header on each board, adding height and exposed copper.
 As a personal project, I developed a bootloader for the ATmega16m1, the microcontroller we use on the team, that allows us to update the firmware of any ECU on our CAN bus.</description></item><item><title/><link>http://example.org/home/projects/bms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/home/projects/bms/</guid><description>MKV BMS A battery management system for a 400V EV battery.
 Code repository. Documentation.
 navigate down to learn more
