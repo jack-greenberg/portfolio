@@ -12,7 +12,7 @@ outputs = ["Reveal"]
   background-position = "left bottom"
 >}}
 
-<div style="text-align: left; margin: -2em -5em 0 0">
+<div style="text-align: left">
 
 <img style="border: none; box-shadow: none; margin: 0;" src="/oem-logo.png"
 width="30%"/>

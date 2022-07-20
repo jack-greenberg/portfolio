@@ -25,7 +25,7 @@ Historically, whenever we wanted to update the firmware on our circuit boards,
 we had to use an _in-system programming (ISP) dongle_ and plug into each board
 manually.
 
-This often meant opening up enclosure, and required us to have a large
+This often meant opening up enclosures, and required us to have a large
 programming header on each board, adding height and exposed copper.
 
 ---

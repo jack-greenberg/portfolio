@@ -29,8 +29,9 @@
 */
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:700);
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@700&display=swap');
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
-  color: #141414; }
+  color: #363c59; }
 
 .reveal .controls {
   right: 50px;
@@ -39,7 +40,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .line {
   content: '';
   position: fixed;
-  background: #FF4081;
+  background: #26c98c;
   z-index: 105; }
   .line.top {
     left: 0;
@@ -83,14 +84,14 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #fff;
-  background-color: #fff; }
+  background: #fefbf4;
+  background-color: #fefbf4; }
 
 .reveal {
   font-family: "Roboto Slab", serif;
   font-size: 32px;
   font-weight: normal;
-  color: #363636; }
+  color: #363c59; }
 
 ::selection {
   color: #fff;
@@ -117,12 +118,13 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #141414;
-  font-family: "Roboto", sans-serif;
+  color: #363c59;
+  /* font-family: "Roboto", sans-serif; */
+  font-family: 'Edu VIC WA NT Beginner', cursive;
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -279,7 +281,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #FF4081;
+  color: #26c98c;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -314,21 +316,21 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #FF4081;
+  border-color: #26c98c;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #FF4081; }
+  color: #26c98c; }
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #FF4081; }
+  color: #26c98c; }
 
 .reveal .progress span {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
