@@ -21,6 +21,8 @@ link.](https://github.com/olin-electric-motorsports/olin-electric-motorsports)
 
 ---
 
+<img src="/usbasp.jpg" width="30%" />
+
 Historically, whenever we wanted to update the firmware on our circuit boards,
 we had to use an _in-system programming (ISP) dongle_ and plug into each board
 manually.

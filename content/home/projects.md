@@ -9,7 +9,7 @@ weight = 10
 <br />
 <br />
 
-##### [CAN Bootloader](#can-bootloader)
-##### [MKV BMS](#mkv-bms)
-##### [Contactor Control](#air-ctrl)
-##### [Kalman Filter SoC Estimation](#soc)
+#### [CAN Bootloader](#can-bootloader)
+#### [MKV BMS](#mkv-bms)
+#### [Contactor Control](#air-ctrl)
+#### [Kalman Filter SoC Estimation](#soc)

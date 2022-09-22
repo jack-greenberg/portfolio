@@ -6,6 +6,8 @@ weight = 50
 
 ## Contact
 
-Email: [j \<at> jackgreenberg \<dot> co]()
+Email: j@jackgreenberg.co
 
 Github: [@jack-greenberg](https://github.com/jack-greenberg)
+
+Twitter: [@jackgreenb](https://twitter.com/jackgreenb/)

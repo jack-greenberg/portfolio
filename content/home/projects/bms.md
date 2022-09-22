@@ -4,8 +4,6 @@ weight = 12
 
 {{% section %}}
 
-{{< slide id="mkv-bms" >}}
-
 # MKV BMS
 
 _A battery management system for a 400V EV battery._
@@ -18,6 +16,11 @@ _A battery management system for a 400V EV battery._
 <small>navigate down to learn more</small>
 
 🔽
+
+<div style="text-align: right">
+<img src="/accumulator.jpg" width="50%" style="border: none; box-shadow:
+none; margin-bottom: -4rem; margin-top: -7em;" />
+</div>
 
 ---
 

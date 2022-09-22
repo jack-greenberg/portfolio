@@ -35,12 +35,10 @@ management_.
 
 ---
 
-{{< slide
-  background-image = "/mkv.png"
-  background-size = "65%"
-  background-repeat = "no-repeat"
-  background-position = "left bottom"
->}}
+<div style="text-align: right">
+<img src="/service-section.jpg" width="50%" style="border: none; box-shadow:
+none; margin-bottom: -4rem; margin-top: -4em;" />
+</div>
 
 <div style="text-align: left">
 
@@ -55,13 +53,6 @@ safety-critical code should be easy to understand and as simple as possible.
 </div>
 
 ---
-
-{{< slide
-  background-image = "/mkv.png"
-  background-size = "65%"
-  background-repeat = "no-repeat"
-  background-position = "left bottom"
->}}
 
 <div style="text-align: left">
 
@@ -80,6 +71,11 @@ The state machine is diagrammed below.
 [Code repository](https://github.com/olin-electric-motorsports/olin-electric-motorsports/tree/main/vehicle/mkv/software/air_control).
 [Documentation](https://docs.olinelectricmotorsports.com/share/13fffae6-b6f3-4f28-8fd8-b853e9c5ab8c).
 
+</div>
+
+<div style="text-align: right">
+<img src="/air-minus.jpg" width="50%" style="border: none; box-shadow:
+none; margin-bottom: -4rem; margin-top: -4em; z-index: -1; position: relative" />
 </div>
 
 ---
