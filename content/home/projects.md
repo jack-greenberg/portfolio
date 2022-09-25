@@ -7,9 +7,11 @@ weight = 10
 ### Here are some projects I've worked on...
 
 <br />
-<br />
 
-#### [CAN Bootloader](#can-bootloader)
-#### [MKV BMS](#mkv-bms)
-#### [Contactor Control](#air-ctrl)
-#### [Kalman Filter SoC Estimation](#soc)
+[**CAN Bootloader**](#can-bootloader).
+[**MKV BMS**](#bms).
+[**AIR Control**](#air-control).
+
+<div style="font-size: .8em; margin-top: 15em">
+To go back to the first slide, just press `Shift` ←
+</div>

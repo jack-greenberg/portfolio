@@ -8,12 +8,30 @@ weight = 4
 
 At a glance...
 
-   |   
----|---|---
-[Apple SPG]|Embedded Controls Software Intern|May-Aug 2022
-[Apple SPG]|Embedded Controls Software Intern|Jan-Aug 2021
-[Indico AI]|Backend Software Intern          |May-Aug 2020
-[Yay Brigade]|Full-stack Software Intern     |Jan-Aug 2019
+<table style="width:100%">
+<tbody>
+<tr>
+<td><a href="https://apple.com">Apple SPG</a></td>
+<td>Embedded Controls Software Intern</td>
+<td>May-Aug 2022</td>
+</tr>
+<tr>
+<td><a href="https://apple.com">Apple SPG</a></td>
+<td>Embedded Controls Software Intern</td>
+<td>Jan-Aug 2021</td>
+</tr>
+<tr>
+<td><a href="https://indico.io">Indico AI</a></td>
+<td>Backend Software Intern</td>
+<td>May-Aug 2020</td>
+</tr>
+<tr>
+<td><a href="https://yaybrigade.com">Yay Brigade</a></td>
+<td>Full-stack Software Intern</td>
+<td>Jan-Aug 2019</td>
+</tr>
+</tbody>
+</table>
 
 [Apple SPG]: https://apple.com
 [Indico AI]: https://indico.io
@@ -22,11 +40,6 @@ At a glance...
 <br />
 
 <small>More details 🔽</small>
-
----
-
-<small>Did you notice that as time went on, I moved further and further down the
-stack?</small>
 
 ---
 
@@ -52,8 +65,8 @@ with sensors and other hardware peripherals.
 ---
 
 <div>
-<!-- <img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em 0 0;" src="/apple.png" -->
-<!-- width="7%"/> -->
+<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em 0 0;" src="/indico.png"
+width="7%"/>
 <h2 style="display: inline">Indico AI</h2>
 
 <p style="font-size: .75em">Back-End Software Intern | May-Aug 2020</p>
@@ -75,8 +88,8 @@ use skills I learned from Indico everyday.
 ---
 
 <div>
-<!-- <img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em 0 0;" src="/apple.png" -->
-<!-- width="7%"/> -->
+<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em 0 0;" src="/yay-brigade.png"
+width="7%"/>
 <h2 style="display: inline">Yay Brigade</h2>
 
 <p style="font-size: .75em">Full-stack Software Intern | Jan-Aug 2019</p>

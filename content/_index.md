@@ -33,5 +33,5 @@ I am a jazz and funk bass player.
 {{% /fragment %}}
 
 {{% fragment %}}
-And I love cooking.
+And I love cooking and climbing.
 {{% /fragment %}}
