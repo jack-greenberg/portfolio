@@ -27,7 +27,7 @@ I led the system design and worked with other senior engineers to execute
 testing and an initial implementation of the system.</p><p>This was during a remote year (due to the Covid-19 pandemic), so keeping members
 engaged proved to be the biggest challenge. But through team bonding events,
 regular meetings and 1:1s, we were able to lay a solid foundation for the
-following year.</p></section><section><h1 id=year-3>Year 3</h1><p>As a junior, I decided to revamp our entire system for writing firmware and
+following year.</p></section><section><div style=text-align:right><img src=/air-minus.jpg width=30% style=border:none;box-shadow:none;margin-bottom:-6em;margin-top:-6em></div><h1 id=year-3>Year 3</h1><p>As a junior, I decided to revamp our entire system for writing firmware and
 designing PCBs. This included a lot of projects:</p><ul><li><p>I moved the team to a <a href=https://github.com/olin-electric-motorsports/olin-electric-motorsports>monorepo</a> that has all of our electrical and software
 work.</p></li><li><p>I collaborated with teammates on a system to describe our CAN bus using a YAML
 spec that would be compiled into a DBC file as well as generated into a C
@@ -40,21 +40,7 @@ fundementals of embedded systems and how to write low-level code. I also led
 talks on the systems of our car including high-voltage power distribution.</p><p>I also took on the role of financial manager on the team, organizing a $65,000
 budget. My goal is to be as transparent as possible with the rest of the team as
 well as with Olin College, and I achieved this by organizing regular financial
-updates and keeping in close contact with the Olin finance offices.</p></section><section><div style=text-align:right><img src=/service-section.jpg width=50% style=border:none;box-shadow:none;margin-bottom:-4rem;margin-top:-4em></div><div style=text-align:left><h3 id=high-voltage-power-distribution>High Voltage Power Distribution</h3><p>I worked on the firmware for the <a href=#mkv-bms>battery management system</a> and the
-battery contactor controller.</p><p>I designed the firmware to be robust and <em>readable</em>. I believe that
-safety-critical code should be easy to understand and as simple as possible.</p></div></section><section><div style=text-align:left><h4 id=battery-contactor-control>Battery Contactor Control</h4><p>I implemented a state machine for controlling the battery contactors (also
-called AIRs, or <em>accumulator isolation relays</em>). The firmware ensures safe
-operation of the motor controller (precharge, discharge).</p><p>The entire state machine was fully tested using a pieced-together
-hardware-in-the-loop test setup with a CAN dongle, an Arduino, and a <strong>lot</strong> of
-jumper cables.</p><p>The state machine is diagrammed below.</p><p><a href=https://github.com/olin-electric-motorsports/olin-electric-motorsports/tree/main/vehicle/mkv/software/air_control>Code repository</a>.
-<a href=https://coda.io/d/Documentation_dbuFnC2EA_e/AIR-Control_sudaq#_luEBo>Documentation</a>.</p></div><div style=text-align:right><img src=/air-minus.jpg width=50% style=border:none;box-shadow:none;margin-bottom:-4rem;margin-top:-4em;z-index:-1;position:relative></div></section><section data-noprocess data-shortcode-slide data-background-image=/air-control.png data-background-size=contain></section><section data-noprocess data-shortcode-slide data-background-image=/mkv.png data-background-position="left bottom" data-background-repeat=no-repeat data-background-size=65%><div style=text-align:left><h3 id=network-management>Network Management</h3><p>Along with another member of the team, I developed a new system for managing our
-CAN bus.</p><p>We are able to descibe the CAN messages sent to and received from our ECUs in a
-YAML format. These YAML files are used as inputs to a DBC generator, as well as
-a C-source generator that provides us an API for sending and receiving the
-messages.</p></div></section><section data-noprocess data-shortcode-slide data-background-image=/mkv.png data-background-position="left bottom" data-background-repeat=no-repeat data-background-size=65%><div style=text-align:left><h3 id=tooling-and-infrastructure>Tooling and Infrastructure</h3><p>When I joined the team, our build system for compiling and flashing code
-consisted of a Python file that invoked shell commands.</p><p>I introduced the Bazel build system to our team to make our code more
-professional. We are able to build and flash any code from our monorepo using
-Bazel.</p></div></section></section><section data-noprocess data-shortcode-slide id=projects><h3 id=here-are-some-projects-ive-worked-on>Here are some projects I&rsquo;ve worked on&mldr;</h3><br><p><a href=#can-bootloader><strong>CAN Bootloader</strong></a>.
+updates and keeping in close contact with the Olin finance offices.</p></section></section><section data-noprocess data-shortcode-slide id=projects><h3 id=here-are-some-projects-ive-worked-on>Here are some projects I&rsquo;ve worked on&mldr;</h3><br><p><a href=#can-bootloader><strong>CAN Bootloader</strong></a>.
 <a href=#bms><strong>MKV BMS</strong></a>.
 <a href=#air-control><strong>AIR Control</strong></a>.</p><div style=font-size:.8em;margin-top:15em>To go back to the first slide, just press `Shift` ←</div></section><section data-shortcode-section><section data-noprocess data-shortcode-slide id=can-bootloader><h1 id=can-bootloader>CAN Bootloader</h1><p><em>A bootloader that can reprogram chips using CAN.</em></p><p><a href=https://github.com/olin-electric-motorsports/olin-electric-motorsports/tree/main/projects/btldr>Code repository</a>.
 <a href=https://coda.io/d/_dbuFnC2EA_e/CAN-Software-Update-aka-Bootloader_suPXB>Documentation</a>.</p><br><p><small>navigate down to learn more</small></p><p>🔽</p></section><section><img src=/usbasp.jpg width=30%><p>Historically, on our Formula team, whenever we wanted to update the firmware on
@@ -74,7 +60,7 @@ and voltages.</p></section></section><section data-shortcode-section><section da
 <a href=https://coda.io/d/Documentation_dbuFnC2EA_e/AIR-Control_sudaq#_luEBo>Documentation</a>.</p><br><p><small>navigate down to learn more</small></p><p>🔽</p><div style=text-align:right><img src=/service-section.jpg width=50% style=border:none;box-shadow:none;margin-bottom:-4rem;margin-top:-7em></div></section><section><p>In an electric vehicle, we need to safely connect our high voltage battery and
 motor controller. However, connecting it directly is dangerous for the system—we
 can end up with a massive surge of current and potentially weld our contactors
-shut.</p></section><section><p>On our Formula team, I rewrote the firmware for the contactor control system
+shut.</p><div style=text-align:right><img src=/air-minus.jpg width=50% style=border:none;box-shadow:none;margin-bottom:-4rem;margin-top:-4em;z-index:-1;position:relative></div></section><section><p>On our Formula team, I rewrote the firmware for the contactor control system
 (which we call <em>AIR Control</em> <small>1</small>). Because it is a safety-critical
 system, I put a lot of focus on simplicity and robustness.</p><p>The system is implemented as a state machine and goes through precharging the
 capacitance in the motor controller and handles fourteen possible faults.</p><br><p><small>1: AIR stands for <strong>accumulator isolation relay</strong></small></p></section><section><p>I also designed a test rig that simulates the inputs to the microcontroller and
