@@ -31,6 +31,11 @@ motor controller. However, connecting it directly is dangerous for the system—
 can end up with a massive surge of current and potentially weld our contactors
 shut.
 
+<div style="text-align: right">
+<img src="/air-minus.jpg" width="50%" style="border: none; box-shadow:
+none; margin-bottom: -4rem; margin-top: -4em; z-index: -1; position: relative" />
+</div>
+
 ---
 
 On our Formula team, I rewrote the firmware for the contactor control system

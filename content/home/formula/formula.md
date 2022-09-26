@@ -71,6 +71,11 @@ following year.
 
 ---
 
+<div style="text-align: right">
+<img src="/air-minus.jpg" width="30%" style="border: none; box-shadow:
+none; margin-bottom: -6em; margin-top: -6em;" />
+</div>
+
 # Year 3
 
 As a junior, I decided to revamp our entire system for writing firmware and
@@ -105,99 +110,3 @@ I also took on the role of financial manager on the team, organizing a $65,000
 budget. My goal is to be as transparent as possible with the rest of the team as
 well as with Olin College, and I achieved this by organizing regular financial
 updates and keeping in close contact with the Olin finance offices.
-
----
-
-<div style="text-align: right">
-<img src="/service-section.jpg" width="50%" style="border: none; box-shadow:
-none; margin-bottom: -4rem; margin-top: -4em;" />
-</div>
-
-<div style="text-align: left">
-
-### High Voltage Power Distribution
-
-I worked on the firmware for the [battery management system](#mkv-bms) and the
-battery contactor controller.
-
-I designed the firmware to be robust and _readable_. I believe that
-safety-critical code should be easy to understand and as simple as possible.
-
-</div>
-
----
-
-<div style="text-align: left">
-
-#### Battery Contactor Control
-
-I implemented a state machine for controlling the battery contactors (also
-called AIRs, or _accumulator isolation relays_). The firmware ensures safe
-operation of the motor controller (precharge, discharge).
-
-The entire state machine was fully tested using a pieced-together
-hardware-in-the-loop test setup with a CAN dongle, an Arduino, and a **lot** of
-jumper cables.
-
-The state machine is diagrammed below.
-
-[Code repository](https://github.com/olin-electric-motorsports/olin-electric-motorsports/tree/main/vehicle/mkv/software/air_control).
-[Documentation](https://coda.io/d/Documentation_dbuFnC2EA_e/AIR-Control_sudaq#_luEBo).
-
-</div>
-
-<div style="text-align: right">
-<img src="/air-minus.jpg" width="50%" style="border: none; box-shadow:
-none; margin-bottom: -4rem; margin-top: -4em; z-index: -1; position: relative" />
-</div>
-
----
-
-{{< slide background-image="/air-control.png" background-size="contain" >}}
-
----
-
-{{< slide
-  background-image = "/mkv.png"
-  background-size = "65%"
-  background-repeat = "no-repeat"
-  background-position = "left bottom"
->}}
-
-<div style="text-align: left">
-
-### Network Management
-
-Along with another member of the team, I developed a new system for managing our
-CAN bus.
-
-We are able to descibe the CAN messages sent to and received from our ECUs in a
-YAML format. These YAML files are used as inputs to a DBC generator, as well as
-a C-source generator that provides us an API for sending and receiving the
-messages.
-
-</div>
-
----
-
-{{< slide
-  background-image = "/mkv.png"
-  background-size = "65%"
-  background-repeat = "no-repeat"
-  background-position = "left bottom"
->}}
-
-<div style="text-align: left">
-
-### Tooling and Infrastructure
-
-When I joined the team, our build system for compiling and flashing code
-consisted of a Python file that invoked shell commands.
-
-I introduced the Bazel build system to our team to make our code more
-professional. We are able to build and flash any code from our monorepo using
-Bazel.
-
-</div>
-
-{{% /section %}}
