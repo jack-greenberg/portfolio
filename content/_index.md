@@ -3,7 +3,7 @@ title = "Jack Greenberg | Portfolio"
 outputs = ["Reveal"]
 +++
 
-The portfolio of
+{{< slide state="hide-menubar">}}
 
 <img style="border: none; box-shadow: none" src="/illustration.png" width="30%" />
 
@@ -22,7 +22,7 @@ The portfolio of
 I am a student at [Olin College of Engineering](https://olin.edu) studying
 electrical and computer engineering.
 
-My focus is in _embedded systems engineering_.
+My focus is in _embedded systems_ and _electrical engineering_.
 
 ---
 

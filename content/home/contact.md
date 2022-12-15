@@ -1,10 +1,12 @@
 +++
-weight = 50
+weight = 200
 +++
 
 {{< slide id="contact" >}}
 
 ## Contact
+
+[Resume.](/resume.pdf)
 
 Email: j@jackgreenberg.co
 

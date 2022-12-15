@@ -2,6 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "reveal-hugo"
+plugins = [
+    "Simplemenu",
+]
 
 [markup.goldmark.renderer]
 unsafe = true

@@ -106,3 +106,31 @@ were online. It would email us after a site had been down for longer than an
 hour.
 
 {{% /section %}}
+
+---
+
+{{< slide id="skills" >}}
+
+# Skills
+
+I'm well-versed in all layers of the stack, from web development to bare-metal
+firmware to electrical PCB design.
+
+I am also a skilled technical communicator, from [design reviews] to [bug
+reports] to [project documentation].
+
+[design reviews]: https://docs.google.com/presentation/d/1yDIXdgj3lLqJSEwJy6zv_iMa3pMJ1Nxz0eXIxtiBIpw/edit?usp=sharing
+[bug reports]: https://github.com/olin-electric-motorsports/olin-electric-motorsports/pull/196#issue-1472232261
+[project documentation]: https://coda.io/d/Documentation_dbuFnC2EA_e/CAN-Software-Update-aka-Bootloader_suPXB
+
+#### Software
+
+C. Rust. Python. Python. MATLAB. Git. Docker.
+
+#### Electrical
+
+KiCad schematic + layout. PCB rework. Debugging. Test plans.
+
+#### Misc.
+
+Technical communication. Jazz bass. Cooking. Bouldering.
