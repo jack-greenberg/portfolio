@@ -79,7 +79,7 @@ systems, which comprised of a set of microservices.
 My main project was developing a cache using Redis for validating permissions
 for a request across all the microservices. You can read more about it [here].
 
-[here]: #permission-cache
+[here]: https://www.jackgreenberg.co/projects/permission-cache/
 
 This internship taught me a lot about professional software engineering and
 distributed systems. While back-end isn't the field I work in anymore, I still
