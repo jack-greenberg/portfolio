@@ -17,7 +17,7 @@ outputs = ["Reveal"]
 
 ---
 
-<img src="/portrait.png" width="70%" />
+<img src="/portrait.jpg" width="70%" />
 
 I am a student at [Olin College of Engineering](https://olin.edu) studying
 electrical and computer engineering.
