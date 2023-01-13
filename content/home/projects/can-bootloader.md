@@ -51,7 +51,9 @@ stamp on the image, and then boots into either the image or the updater.
 The updater uses a state-based approach for doing firmware updates. You can find
 a diagram for the state machine <a href="/btldr-state.png" target="_blank">here</a>.
 
-The bootloader is accompanied by a Python client and CLI that allows users to
-ping and firmware-update the boards based on a preset ECU ID.
+I also wrote a Python client that handles all interaction with the bootloader. I
+implemented a command-line interface that engineers can use to manually ping and
+firmware-update the boards, but the client is application-agnostic and could
+just as easily be used in, for example, a continuous integration setup.
 
 {{% /section %}}

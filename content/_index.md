@@ -13,7 +13,8 @@ outputs = ["Reveal"]
 
 <br />
 
-<small><sup>\*</sup>Go to the next slide!</small>
+<small><sup>\*</sup>Go to the next slide to learn about my work experience and
+skills!</small>
 
 ---
 

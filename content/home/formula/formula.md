@@ -5,12 +5,10 @@ outputs = ["Reveal"]
 
 {{% section %}}
 
-{{< slide
-  background-image = "/mkv.png"
-  background-size = "65%"
-  background-repeat = "no-repeat"
-  background-position = "left bottom"
->}}
+<div style="text-align: right">
+<img src="/mkv.png" width="60%" style="border: none; box-shadow:
+none; margin-bottom: -4rem; margin-bottom: -5em;" />
+</div>
 
 <div style="text-align: left">
 
@@ -21,7 +19,7 @@ At Olin, I'm a member of [**Olin Electric
 Motorsports**](https://www.olinelectricmotorsports.com), our Formula SAE electric
 race car team.
 
-I work on firmware, mostly for high voltage systems and tooling infrastructure.
+Below you can learn more about what I worked on each year on the team!
 
 </div>
 
