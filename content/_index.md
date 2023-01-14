@@ -27,12 +27,52 @@ My focus is in _embedded systems_ and _electrical engineering_.
 
 ---
 
+{{< slide transition="fade-out" >}}
+
+<div class="image-split">
+<div>
 I'm originally from Los Angeles.
 
-{{% fragment %}}
-I am a jazz and funk bass player.
-{{% /fragment %}}
+<p style="opacity: 0">Hack</p>
 
-{{% fragment %}}
+<p style="opacity: 0">Hack</p>
+</div>
+
+<div>
+<img src="/new_portrait.jpg" />
+</div>
+</div>
+
+---
+
+{{< slide transition="fade-in none-out" >}}
+
+<div class="image-split">
+<div>
+I'm originally from Los Angeles.
+
+I am a jazz and funk bass player.
+
+<p style="opacity: 0">Hack</p>
+</div>
+<div>
+<img src="jazz.jpg" />
+</div>
+</div>
+
+---
+
+{{< slide transition="fade-in slide-out" >}}
+
+<div class="image-split">
+<div>
+I'm originally from Los Angeles.
+
+I am a jazz and funk bass player.
+
 And I love cooking and climbing.
-{{% /fragment %}}
+</div>
+<div>
+<img src="climbing.jpg" />
+</div>
+</div>
