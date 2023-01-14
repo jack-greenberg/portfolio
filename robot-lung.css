@@ -345,3 +345,13 @@ body {
 .reveal .progress {
   z-index: 1000;
   color: #FF80A1; }
+
+.frag_image img {
+    opacity: 0;
+    transition: opacity .15s cubic-bezier(0.26, 0.86, 0.44, 0.985);
+}
+
+.frag_image.current-fragment img {
+    transition: opacity .15s cubic-bezier(0.26, 0.86, 0.44, 0.985);
+    opacity: 1;
+}

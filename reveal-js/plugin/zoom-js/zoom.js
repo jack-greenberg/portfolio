@@ -27,7 +27,7 @@ var RevealZoom = (function(){
 
 })();
 
-Reveal.registerPlugin( 'zoom', RevealZoom );
+// Reveal.registerPlugin( 'zoom', RevealZoom );
 
 /*!
  * zoom.js 0.3 (modified for use with reveal.js)
