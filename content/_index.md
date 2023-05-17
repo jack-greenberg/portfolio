@@ -9,7 +9,8 @@ outputs = ["Reveal"]
 
 # Jack Greenberg
 
-[Projects](#projects) | [Contact](#contact) | About<sup>\*</sup>
+[Projects](#projects) | [Contact](#contact) |
+<a href="https://photos.jackgreenberg.co" target="_blank">Photos</a> | About<sup>\*</sup>
 
 <br />
 
