@@ -11,6 +11,11 @@ At a glance...
 <table style="width:100%">
 <tbody>
 <tr>
+<td><a href="https://flyzipline.com">Zipline</a></td>
+<td>Embedded Systems Intern</td>
+<td>May 2023 - Present</td>
+</tr>
+<tr>
 <td><a href="https://apple.com">Apple SPG</a></td>
 <td>Embedded Controls Software Intern</td>
 <td>May-Aug 2022</td>
@@ -33,13 +38,21 @@ At a glance...
 </tbody>
 </table>
 
-[Apple SPG]: https://apple.com
-[Indico AI]: https://indico.io
-[Yay Brigade]: https://yaybrigade.com
-
 <br />
 
 <small>More details 🔽</small>
+
+---
+
+<div>
+<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em -10px 0;" src="/zipline-website.svg"
+width="11%"/>
+<h2 style="display: inline">Zipline</h2>
+
+<p style="font-size: .75em">Embedded Systems Intern | May 2023 - Present</p>
+</div>
+
+Check back later!
 
 ---
 
@@ -117,11 +130,13 @@ I'm well-versed in all layers of the stack, from web development to bare-metal
 firmware to electrical PCB design.
 
 I am also a skilled technical communicator, from [design reviews] to [bug
-reports] to [project documentation].
+reports] to [project documentation]. I recently presented for my senior capstone
+on behalf of my team, check it out [here].
 
 [design reviews]: https://docs.google.com/presentation/d/1yDIXdgj3lLqJSEwJy6zv_iMa3pMJ1Nxz0eXIxtiBIpw/edit?usp=sharing
 [bug reports]: https://github.com/olin-electric-motorsports/olin-electric-motorsports/pull/196#issue-1472232261
 [project documentation]: https://coda.io/d/Documentation_dbuFnC2EA_e/CAN-Software-Update-aka-Bootloader_suPXB
+[here]: https://www.youtube.com/live/s60-3mz0-UQ?feature=share&t=7825
 
 #### Software
 
