@@ -15,7 +15,7 @@ none; margin-bottom: -4rem; margin-bottom: -5em;" />
 <img style="border: none; box-shadow: none; margin: 0;" src="/oem-logo.png"
 width="30%"/>
 
-At Olin, I'm a member of [**Olin Electric
+At Olin, I was member of [**Olin Electric
 Motorsports**](https://www.olinelectricmotorsports.com), our Formula SAE electric
 race car team.
 

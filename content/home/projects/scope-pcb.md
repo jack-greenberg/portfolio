@@ -15,6 +15,10 @@ display:inline-block; padding: 0.2em .4em">
 Partially redacted due to NDA.
 </p>
 
+See the public-facing presentation [here].
+
+[here]: https://www.youtube.com/live/s60-3mz0-UQ?feature=share&t=7825
+
 <br />
 
 <small>navigate down to learn more</small>
@@ -23,7 +27,7 @@ Partially redacted due to NDA.
 
 <div style="text-align: right">
 <img src="/scope-pcb.png" width="50%" style="border: none; box-shadow:
-none; margin-bottom: -4rem; margin-top: -9em;" />
+none; margin-bottom: -4rem; margin-top: -12em;" />
 </div>
 
 ---

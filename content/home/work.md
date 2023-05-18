@@ -150,7 +150,8 @@ on behalf of my team, check it out [here].
 
 #### Software
 
-C. Rust. Python. Python. MATLAB. Git. Docker.
+Rust. C. Python. MATLAB. Git. Docker. <span style="color:white; font-size: .5em">Web dev (HTML, CSS,
+JS) but I really enjoy like it.</span>
 
 #### Electrical
 
