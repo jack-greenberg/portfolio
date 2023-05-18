@@ -2,7 +2,7 @@
 Zipline Embedded Systems Intern May 2023 - Present Apple SPG Embedded Controls Software Intern May-Aug 2022 Apple SPG Embedded Controls Software Intern Jan-Aug 2021 Indico AI Backend Software Intern May-Aug 2020 Yay Brigade Full-stack Software Intern Jan-Aug 2019 More details 🔽
 Zipline Embedded Systems Intern | May 2023 - Present
 Check back later!
-Apple SPG Embedded Controls Software Intern | May-Aug 2022, Jan-Aug 2021</description></item><item><title/><link>http://example.org/home/formula/formula/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/home/formula/formula/</guid><description>At Olin, I&amp;rsquo;m a member of Olin Electric Motorsports, our Formula SAE electric race car team.
+Apple SPG Embedded Controls Software Intern | May-Aug 2022, Jan-Aug 2021</description></item><item><title/><link>http://example.org/home/formula/formula/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/home/formula/formula/</guid><description>At Olin, I was member of Olin Electric Motorsports, our Formula SAE electric race car team.
 Below you can learn more about what I worked on each year on the team!
 navigate down to learn more
 🔽
@@ -11,10 +11,10 @@ This is a safety-critical board that will shutdown the car if power is being del
 Firmware 4KB CAN Bootloader. MKV BMS. AIR Control.
 Software The Gauntlet.
 To go back to the first slide, just press `Shift` ←</description></item><item><title/><link>http://example.org/home/projects/scope-pcb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/home/projects/scope-pcb/</guid><description>SCOPE PCB PCB for a single-watt scale electrical generator.
-Partially redacted due to NDA. navigate down to learn more
+Partially redacted due to NDA. See the public-facing presentation here.
+navigate down to learn more
 🔽
-For my senior capstone (SCOPE), I worked with a company to develop a single-watt scale electrical generator. The motor is driven externally and the microcontroller (STM32F3) uses PWM commutation to control the motor driver to generate the optimal amount of energy to reduce startup torque.
-On board, there is a motor driver IC, a battery charging IC and battery management system, a 5V buck converter, and a microcontroller.</description></item><item><title/><link>http://example.org/home/projects/can-bootloader/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/home/projects/can-bootloader/</guid><description>CAN Bootloader A bootloader that can reprogram chips using CAN.
+For my senior capstone (SCOPE), I worked with a company to develop a single-watt scale electrical generator. The motor is driven externally and the microcontroller (STM32F3) uses PWM commutation to control the motor driver to generate the optimal amount of energy to reduce startup torque.</description></item><item><title/><link>http://example.org/home/projects/can-bootloader/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/home/projects/can-bootloader/</guid><description>CAN Bootloader A bootloader that can reprogram chips using CAN.
 Code repository. Documentation.
 navigate down to learn more
 🔽
