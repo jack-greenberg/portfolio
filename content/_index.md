@@ -118,13 +118,19 @@ diploma.</small>
 
 ---
 
-At Olin, my notable coursework included:
+At Olin, my coursework included:
 
+* Software Systems
+* Embedded Systems Programming in Rust **(IS)**
+* Probabilistic Modeling
 * Introduction to Microelectronic Circuits
 * Computer Architecture
 * Analog and Digital Communications
-* Software Systems
-* Safe Embedded Systems Programming in Rust
 * Quantitative Engineering Analysis
+
+<br />
+<br />
+
+<small>**(IS)**: Independent Study</small>
 
 {{% /section %}}
