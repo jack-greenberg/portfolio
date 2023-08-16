@@ -36,3 +36,5 @@ from LIDAR into a series of lines and a circle (the goal).
 
 From the lines and the circle, the code then generated a vector field and then
 apply _gradient descent_ to navigate the robot towards the goal.
+
+{{% /section %}}

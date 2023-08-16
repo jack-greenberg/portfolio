@@ -1,10 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://portfolio.jackgreenberg.co"
+languageCode = "en-us"
+title = "Jack Greenberg | Portfolio"
 theme = "reveal-hugo"
-plugins = [
-    "Simplemenu",
-]
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -19,3 +16,7 @@ custom_theme = "robot-lung.css"
 margin = 0.2
 transition = "slide"
 transition_speed = "fast"
+
+[[params.reveal_hugo.plugins]]
+name = "Simplemenu"
+source = "simplemenu/simplemenu.js"

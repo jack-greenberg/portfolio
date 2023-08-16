@@ -47,3 +47,5 @@ two LTC6811 battery management integrated chips.
 I adapted Linear Technology's (now Analog Devices) drivers to fit our
 microcontrollers, and implemented a 100 Hz loop that monitors the temperatures
 and voltages.
+
+{{% /section %}}

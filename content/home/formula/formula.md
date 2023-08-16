@@ -108,3 +108,5 @@ I also took on the role of financial manager on the team, organizing a $65,000
 budget. My goal is to be as transparent as possible with the rest of the team as
 well as with Olin College, and I achieved this by organizing regular financial
 updates and keeping in close contact with the Olin finance offices.
+
+{{% /section %}}

@@ -12,7 +12,7 @@ At a glance...
 <tbody>
 <tr>
 <td><a href="https://flyzipline.com">Zipline</a></td>
-<td>Embedded Systems Intern</td>
+<td>Embedded Avionics Intern</td>
 <td>May 2023 - Present</td>
 </tr>
 <tr>
@@ -45,14 +45,24 @@ At a glance...
 ---
 
 <div>
-<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em -10px 0;" src="/zipline-website.svg"
-width="11%"/>
-<h2 style="display: inline">Zipline</h2>
+<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0px 0px -70px -70px;" src="/zipline-logo.svg" width="60%" alt="Zipline logo"/>
+<h2 style="display: none">Zipline</h2>
 
-<p style="font-size: .75em">Embedded Systems Intern | May 2023 - Present</p>
+<p style="font-size: .75em">Embedded Avionics Intern | May - Aug 2023</p>
 </div>
 
-Check back later!
+Zipline's **Platform 2** drone consists of two vehicles: a zip, which is the
+hovering drone; and a droid, a small delivery robot stowed in the zip that is
+lowered by winch to drop off the package.
+
+My intern project was to design, develop, and test **zip-to-droid
+communications**. The vehicles communicate things like motion commands and
+vehicle state over a wireless link. The code was entirely written in Rust.
+
+In addition to the design, I also spent time collecting performance metrics like
+latency. The data analysis, in addition to some probabilistic modeling, proved
+that the solution was able to meet worst-case latency requirements while
+balancing wireless channel utilization.
 
 ---
 

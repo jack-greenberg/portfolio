@@ -22,10 +22,12 @@ skills!</small>
 <center>
 <img src="/new_portrait.jpg" width="70%" />
 
-<div style="font-size: 1.25em;">
-I am an embedded systems engineering intern at <a
-href="https://flyzipline.com">Zipline</a>, working on <span style="white-space:
-nowrap;">wireless communications</span>.
+<div style="font-size: 1.15em;">
+I am an embedded firmware engineer finishing my undergraduate degree with a
+semester abroad in Florence, Italy.
+
+<small><a href="/#/contact">I'm also looking for a full-time job in Seattle!</a></small>
+
 </div>
 
 </center>

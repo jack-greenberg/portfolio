@@ -52,3 +52,5 @@ storage.
 
 I developed the schematic and layout in KiCad, following best practices with
 lots of review from professors and subject matter experts.
+
+{{% /section %}}
