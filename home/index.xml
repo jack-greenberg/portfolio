@@ -6,14 +6,17 @@ Below you can learn more about what I worked on each year on the team!
 navigate down to learn more
 🔽
 Year 1 As a first-year on the electrical subteam, I designed, fabricated, and tested a PCB called the Brake System Plausibility Device, or BSPD.
-This is a safety-critical board that will shutdown the car if power is being delivered to the motor while the brake pedal is pressed for longer than half a second.</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/</guid><description> Here are some projects I&amp;rsquo;ve worked on&amp;hellip; Electrical SCOPE PCB.
+This is a safety-critical board that will shutdown the car if power is being delivered to the motor while the brake pedal is pressed for longer than half a second.</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/</guid><description> Here are some projects I&amp;rsquo;ve worked on&amp;hellip; Electrical SCOPE PCB. MKVI Harness.
 Firmware 4KB CAN Bootloader. MKV BMS. AIR Control.
 Software The Gauntlet.
 To go back to the first slide, just press `Shift` ←</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/scope-pcb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/scope-pcb/</guid><description>SCOPE PCB PCB for a single-watt scale electrical generator.
 Partially redacted due to NDA. See the public-facing presentation here.
 navigate down to learn more
 🔽
-For my senior capstone (SCOPE), I worked with a company to develop a single-watt scale electrical generator. The motor is driven externally and the microcontroller (STM32F3) uses PWM commutation to control the motor driver to generate the optimal amount of energy to reduce startup torque.</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/can-bootloader/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/can-bootloader/</guid><description>CAN Bootloader A bootloader that can reprogram chips using CAN.
+For my senior capstone (SCOPE), I worked with a company to develop a single-watt scale electrical generator. The motor is driven externally and the microcontroller (STM32F3) uses PWM commutation to control the motor driver to generate the optimal amount of energy to reduce startup torque.</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/harness/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/harness/</guid><description>MKVI Harness A wire harness for an electric race car.
+navigate down to learn more
+🔽
+On our Formula team&amp;rsquo;s MKV vehicle, the wire harness was a massive sore spot. The team had little experience in harness design or construction, so the result was a rat&amp;rsquo;s nest of cabling with no wire protection. This led to issues like wires getting pinched and shorting power supplies (through fuses, of course) to ground.</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/can-bootloader/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/can-bootloader/</guid><description>CAN Bootloader A bootloader that can reprogram chips using CAN.
 Code repository. Documentation.
 navigate down to learn more
 🔽
