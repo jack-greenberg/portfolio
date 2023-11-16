@@ -11,6 +11,7 @@ weight = 10
 #### Electrical
 
 [**SCOPE PCB**](#scope-pcb).
+[**MKVI Harness**](#harness).
 
 #### Firmware
 

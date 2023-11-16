@@ -155,7 +155,7 @@ JS) but I really enjoy like it.</span>
 
 #### Electrical
 
-KiCad schematic + layout. PCB rework. Debugging. Test plans.
+KiCad schematic + layout. PCB rework. Debugging. Test plans. Harnessing.
 
 #### Misc.
 
