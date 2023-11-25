@@ -13,7 +13,7 @@ At a glance...
 <tr>
 <td><a href="https://flyzipline.com">Zipline</a></td>
 <td>Embedded Avionics Intern</td>
-<td>May 2023 - Present</td>
+<td>May-Aug 2023</td>
 </tr>
 <tr>
 <td><a href="https://apple.com">Apple SPG</a></td>
@@ -74,7 +74,7 @@ width="7%"/>
 <p style="font-size: .75em">Embedded Controls Software Intern | May-Aug 2022, Jan-Aug 2021</p>
 </div>
 
-I spent the last two summers (as well as a semester off from school) as an
+I spent the two summers (as well as a semester off from school) as an
 embedded controls software intern at Apple in the Special Projects Group in
 Sunnyvale, California.
 
@@ -137,11 +137,11 @@ hour.
 # Skills
 
 I'm well-versed in all layers of the stack, from web development to bare-metal
-firmware to electrical PCB design.
+firmware to PCB design.
 
 I am also a skilled technical communicator, from [design reviews] to [bug
-reports] to [project documentation]. I recently presented for my senior capstone
-on behalf of my team, check it out [here].
+reports] to [project documentation]. I gave the final presentation for my senior
+capstone on behalf of my team, check it out [here].
 
 [design reviews]: https://docs.google.com/presentation/d/1yDIXdgj3lLqJSEwJy6zv_iMa3pMJ1Nxz0eXIxtiBIpw/edit?usp=sharing
 [bug reports]: https://github.com/olin-electric-motorsports/olin-electric-motorsports/pull/196#issue-1472232261
@@ -151,7 +151,7 @@ on behalf of my team, check it out [here].
 #### Software
 
 Rust. C. Python. MATLAB. Git. Docker. <span style="color:white; font-size: .5em">Web dev (HTML, CSS,
-JS) but I really enjoy like it.</span>
+JS) but I really don't enjoy it.</span>
 
 #### Electrical
 
