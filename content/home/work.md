@@ -16,14 +16,9 @@ At a glance...
 <td>May-Aug 2023</td>
 </tr>
 <tr>
-<td><a href="https://apple.com">Apple SPG</a></td>
-<td>Embedded Controls Software Intern</td>
-<td>May-Aug 2022</td>
-</tr>
-<tr>
-<td><a href="https://apple.com">Apple SPG</a></td>
-<td>Embedded Controls Software Intern</td>
-<td>Jan-Aug 2021</td>
+<td style="vertical-align: middle"><a href="https://apple.com">Apple SPG</a></td>
+<td style="vertical-align: middle">Embedded Controls Software Intern</td>
+<td>May-Aug 2022<br />Jan-Aug 2021</td>
 </tr>
 <tr>
 <td><a href="https://indico.io">Indico AI</a></td>

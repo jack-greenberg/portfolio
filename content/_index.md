@@ -23,8 +23,10 @@ skills!</small>
 <img src="/new_portrait.jpg" width="70%" />
 
 <div style="font-size: 1.15em;">
-I am an embedded firmware engineer finishing my undergraduate degree with a
-semester abroad in Florence, Italy.
+I am an embedded firmware engineer and recent graduate from <span style="white-space: nowrap;
+">Olin College of Engineering.</span>
+<!-- I am an embedded firmware engineer finishing my undergraduate degree with a -->
+<!-- semester abroad in Florence, Italy. -->
 
 <small><a href="/#/contact">I'm also looking for a full-time job in Seattle!</a></small>
 
@@ -108,8 +110,8 @@ During the pandemic, I took a semester off to do a co-op at Apple in the Special
 Projects Group. Because of this, completion of my degree was delayed by <span style="white-space: nowrap">a semester</span>.
 
 **However**, I decided that for my final semester, I would study abroad in
-Italy. In August 2023, I'll be moving to Florence to take cooking classes to
-satisfy a minor in <span style="white-space: nowrap">*culinary arts*</span>.
+Italy. In August 2023, I moved to Florence to take cooking classes to satisfy a
+minor in <span style="white-space: nowrap">*culinary arts*</span>.
 
 <br />
 
