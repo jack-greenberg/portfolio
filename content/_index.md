@@ -22,14 +22,8 @@ skills!</small>
 <center>
 <img src="/new_portrait.jpg" width="70%" />
 
-<div style="font-size: 1.15em;">
-I am an embedded firmware engineer and recent graduate from <span style="white-space: nowrap;
-">Olin College of Engineering.</span>
-<!-- I am an embedded firmware engineer finishing my undergraduate degree with a -->
-<!-- semester abroad in Florence, Italy. -->
-
-<small><a href="/#/contact">I'm also looking for a full-time job in Seattle!</a></small>
-
+<div style="font-size: 1.15em;width: 80%;">
+I am an embedded firmware engineer at SpaceX working on Wi-Fi for Starlink.
 </div>
 
 </center>

@@ -11,6 +11,11 @@ At a glance...
 <table style="width:100%">
 <tbody>
 <tr>
+<td><a href="https://spacex.com">SpaceX</a></td>
+<td>Software Engineer, Starlink</td>
+<td>Feb 2024 - Present</td>
+</tr>
+<tr>
 <td><a href="https://flyzipline.com">Zipline</a></td>
 <td>Embedded Avionics Intern</td>
 <td>May-Aug 2023</td>
@@ -24,11 +29,6 @@ At a glance...
 <td><a href="https://indico.io">Indico AI</a></td>
 <td>Backend Software Intern</td>
 <td>May-Aug 2020</td>
-</tr>
-<tr>
-<td><a href="https://yaybrigade.com">Yay Brigade</a></td>
-<td>Full-stack Software Intern</td>
-<td>Jan-Aug 2019</td>
 </tr>
 </tbody>
 </table>
