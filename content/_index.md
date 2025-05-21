@@ -23,7 +23,7 @@ skills!</small>
 <img src="/new_portrait.jpg" width="70%" />
 
 <div style="font-size: 1.15em;width: 80%;">
-I am an embedded firmware engineer at SpaceX working on Wi-Fi for Starlink.
+I am an embedded firmware engineer at SpaceX helping putting Starlink on planes.
 </div>
 
 </center>
