@@ -10,25 +10,25 @@ At a glance...
 
 <table style="width:100%">
 <tbody>
-<tr>
-<td><a href="https://spacex.com">SpaceX</a></td>
-<td>Software Engineer, Starlink</td>
-<td>Feb 2024 - Present</td>
+<tr style="font-weight: bold">
+<td><a target="_blank" href="https://www.helionenergy.com">Helion Energy</a></td>
+<td>Firmware Engineer</td>
+<td>Jul 2025 - Present</td>
 </tr>
 <tr>
-<td><a href="https://flyzipline.com">Zipline</a></td>
+<td><a target="_blank" href="https://spacex.com">SpaceX</a></td>
+<td>Software Engineer, Starlink</td>
+<td>Feb 2024 - Jun 2025</td>
+</tr>
+<tr>
+<td><a target="_blank" href="https://flyzipline.com">Zipline</a></td>
 <td>Embedded Avionics Intern</td>
 <td>May-Aug 2023</td>
 </tr>
 <tr>
-<td style="vertical-align: middle"><a href="https://apple.com">Apple SPG</a></td>
+<td style="vertical-align: middle"><a target="_blank" href="https://apple.com">Apple SPG</a></td>
 <td style="vertical-align: middle">Embedded Controls Software Intern</td>
 <td>May-Aug 2022<br />Jan-Aug 2021</td>
-</tr>
-<tr>
-<td><a href="https://indico.io">Indico AI</a></td>
-<td>Backend Software Intern</td>
-<td>May-Aug 2020</td>
 </tr>
 </tbody>
 </table>
@@ -36,6 +36,32 @@ At a glance...
 <br />
 
 <small>More details 🔽</small>
+
+---
+
+<div>
+<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0px 0px 0px 0px;" src="/helion-logo.svg" width="50%" alt="helion logo"/>
+<h2 style="display: none">Helion Energy</h2>
+
+<p style="font-size: .75em">Firmware Engineer | July 2025 - Present</p>
+</div>
+
+In July 2025, I joined Helion Energy as the second firmware engineer. We're working on some pretty cool stuff!
+
+---
+
+<div>
+<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0px 0px 0px 0px;" src="/starlink-logo.svg" width="50%" alt="Zipline logo"/>
+<h2 style="display: none">Starlink</h2>
+
+<p style="font-size: .75em">Embedded Software Engineer | February 2024 - June 2025</p>
+</div>
+
+At Starlink I worked on the aviation team to bring internet connectivity to planes.
+
+I spent time on the embedded Linux platform of the WiFi router, improving the
+performance and stability. I learned a lot about embedded systems and managing
+large fleets of devices.
 
 ---
 
@@ -80,49 +106,6 @@ I worked closely with electrical, mechanical, and controls engineers to develop
 integrated engineering systems, and developed firmware drivers for interfacing
 with sensors and other hardware peripherals.
 
----
-
-<div>
-<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em 0 0;" src="/indico.png"
-width="7%"/>
-<h2 style="display: inline">Indico AI</h2>
-
-<p style="font-size: .75em">Back-End Software Intern | May-Aug 2020</p>
-</div>
-
-My first college internship was at Indico, a startup that works on
-machine-learning solutions for document processing. I worked on their back-end
-systems, which comprised of a set of microservices.
-
-My main project was developing a cache using Redis for validating permissions
-for a request across all the microservices. You can read more about it [here].
-
-[here]: https://www.jackgreenberg.co/projects/permission-cache/
-
-This internship taught me a lot about professional software engineering and
-distributed systems. While back-end isn't the field I work in anymore, I still
-use skills I learned from Indico everyday.
-
----
-
-<div>
-<img style="display: inline; vertical-align: text-bottom; border: none; box-shadow: none; margin: 0 0.5em 0 0;" src="/yay-brigade.png"
-width="7%"/>
-<h2 style="display: inline">Yay Brigade</h2>
-
-<p style="font-size: .75em">Full-stack Software Intern | Jan-Aug 2019</p>
-</div>
-
-I worked at Yay Brigade, a small design firm in downtown Los Angeles, during my
-gap year before college. I worked closely with Roman, the co-founder, as well as
-various visiting designers. We worked on websites for various groups in Los
-Angeles.
-
-I also started exploring back-end software while at Yay Brigade. I built a tool
-called **Status** that displayed a list of the websites and whether or not they
-were online. It would email us after a site had been down for longer than an
-hour.
-
 {{% /section %}}
 
 ---
@@ -145,8 +128,7 @@ capstone on behalf of my team, check it out [here].
 
 #### Software
 
-Rust. C. Python. MATLAB. Git. Docker. <span style="color:white; font-size: .5em">Web dev (HTML, CSS,
-JS) but I really don't enjoy it.</span>
+Rust. C. Go. Python. MATLAB. Git. Docker.
 
 #### Electrical
 
