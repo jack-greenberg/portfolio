@@ -19,14 +19,17 @@ skills!</small>
 
 ---
 
-<center>
-<img src="/new_portrait.jpg" width="70%" />
+<div class="image-split-portrait">
 
-<div style="font-size: 1.15em;width: 70%;">
+<div>
 I am a firmware engineer at <a href="https://www.helionenergy.com/">Helion Energy</a> helping make fusion a reality.
 </div>
 
-</center>
+<div>
+<img src="/portrait.jpeg" />
+</div>
+
+</div>
 
 ---
 
