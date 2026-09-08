@@ -12,8 +12,6 @@ Email: j@jackgreenberg.co
 
 Github: [@jack-greenberg](https://github.com/jack-greenberg)
 
-Twitter: [@jackgreenb](https://twitter.com/jackgreenb/)
-
 <br />
 <br />
 
