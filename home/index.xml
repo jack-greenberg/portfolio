@@ -44,5 +44,4 @@ For my Quantitative Engineering Analysis course (sophomore year), the goal of th
 The robot was equiped with a LIDAR camera that sampled points around it. I used a random sample consensus (RANSAC) algorithm to organize the individual points from LIDAR into a series of lines and a circle (the goal).</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/contact/</guid><description>Contact Resume.
 Email: j@jackgreenberg.co
 Github: @jack-greenberg
-Twitter: @jackgreenb
 To go back to the first slide, just press Shift ←</description></item><item><title/><link>https://portfolio.jackgreenberg.co/home/projects/contactor-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.jackgreenberg.co/home/projects/contactor-control/</guid><description/></item></channel></rss>
