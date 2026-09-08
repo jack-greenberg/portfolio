@@ -12,12 +12,12 @@ At a glance...
 <tbody>
 <tr style="font-weight: bold">
 <td><a target="_blank" href="https://www.helionenergy.com">Helion Energy</a></td>
-<td>Firmware Engineer</td>
+<td>Firmware Engineer III</td>
 <td>Jul 2025 - Present</td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://spacex.com">SpaceX</a></td>
-<td>Software Engineer, Starlink</td>
+<td><a target="_blank" href="https://starlink.com">Starlink</a></td>
+<td>Software Engineer II</td>
 <td>Feb 2024 - Jun 2025</td>
 </tr>
 <tr>
@@ -46,7 +46,15 @@ At a glance...
 <p style="font-size: .75em">Firmware Engineer | July 2025 - Present</p>
 </div>
 
-In July 2025, I joined Helion Energy as the second firmware engineer. We're working on some pretty cool stuff!
+In July 2025, I joined Helion Energy as the company's second firmware engineer.
+I work on the pulsed power capacitor bank, writing firmware for the embedded controllers
+that monitor the health of the system, provide telemetry, and actuate high-current
+switches that power the electromagnets.
+
+The majority of my recent work has been on time synchronization. The pulsed fusion
+reactions occur within a fraction of a second, and thus the massive pulsed power
+capacitor bank requires sub-microsecond synchronization. I own the
+design, development, testing, and qualification of this system.
 
 ---
 
@@ -58,10 +66,11 @@ In July 2025, I joined Helion Energy as the second firmware engineer. We're work
 </div>
 
 At Starlink I worked on the aviation team to bring internet connectivity to planes.
+If you've ever flown on a plane with Starlink, your device was connected to a
+router that I worked on and benefitted from speed and quality improvements I owned.
 
-I spent time on the embedded Linux platform of the WiFi router, improving the
-performance and stability. I learned a lot about embedded systems and managing
-large fleets of devices.
+I spent a considerable amount of time debugging issues with a vendor's Linux kernel
+driver, improving performance and reliability, as well as observability of our fleet.
 
 ---
 
@@ -117,23 +126,14 @@ with sensors and other hardware peripherals.
 I'm well-versed in all layers of the stack, from web development to bare-metal
 firmware to PCB design.
 
-I am also a skilled technical communicator, from [design reviews] to [bug
-reports] to [project documentation]. I gave the final presentation for my senior
-capstone on behalf of my team, check it out [here].
-
-[design reviews]: https://docs.google.com/presentation/d/1yDIXdgj3lLqJSEwJy6zv_iMa3pMJ1Nxz0eXIxtiBIpw/edit?usp=sharing
-[bug reports]: https://github.com/olin-electric-motorsports/olin-electric-motorsports/pull/196#issue-1472232261
-[project documentation]: https://coda.io/d/Documentation_dbuFnC2EA_e/CAN-Software-Update-aka-Bootloader_suPXB
-[here]: https://www.youtube.com/live/s60-3mz0-UQ?feature=share&t=7825
-
 #### Software
 
 Rust. C. Go. Python. MATLAB. Git. Docker.
 
 #### Electrical
 
-KiCad schematic + layout. PCB rework. Debugging. Test plans. Harnessing.
+KiCad schematic + layout. PCBA rework. Debugging. Test plans. Harnessing.
 
 #### Misc.
 
-Technical communication. Jazz bass. Cooking. Bouldering.
+Jazz bass. Cooking. Lindy hop.
