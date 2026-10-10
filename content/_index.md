@@ -22,11 +22,11 @@ skills!</small>
 <div class="image-split-portrait">
 
 <div>
-I am a firmware engineer at <a href="https://www.helionenergy.com/">Helion Energy</a> helping make fusion a reality.
+I'm a embedded software engineer at <a href="https://www.helionenergy.com/">Helion Energy</a> helping bring nuclear fusion from the lab to the grid.
 </div>
 
 <div>
-<img src="/portrait.jpeg" />
+<img src="/party.jpeg" />
 </div>
 
 </div>
@@ -37,7 +37,7 @@ I am a firmware engineer at <a href="https://www.helionenergy.com/">Helion Energ
 
 <div class="image-split">
 <div>
-I'm originally from Los Angeles.
+I live in Seattle.
 
 <p style="opacity: 0">Hack</p>
 
@@ -45,7 +45,7 @@ I'm originally from Los Angeles.
 </div>
 
 <div>
-<img src="/portrait.jpg" />
+<img src="/portrait.jpeg" />
 </div>
 </div>
 
@@ -55,9 +55,9 @@ I'm originally from Los Angeles.
 
 <div class="image-split">
 <div>
-I'm originally from Los Angeles.
+I live in Seattle.
 
-I am a jazz and funk bass player.
+I play jazz bass and swing dance.
 
 <p style="opacity: 0">Hack</p>
 </div>
@@ -72,13 +72,13 @@ I am a jazz and funk bass player.
 
 <div class="image-split">
 <div>
-I'm originally from Los Angeles.
+I live in Seattle.
 
-I am a jazz and funk bass player.
+I play jazz bass and swing dance.
 
-And I love cooking and climbing.
+And I have to cats I adore.
 </div>
 <div>
-<img src="climbing.jpg" />
+<img src="cats.jpeg" />
 </div>
 </div>

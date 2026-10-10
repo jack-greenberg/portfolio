@@ -128,7 +128,7 @@ firmware to PCB design.
 
 #### Software
 
-Rust. C. Go. Python. MATLAB. Git. Docker.
+Rust. C. Go. Python. MATLAB. Git. JJ. Ansible.
 
 #### Electrical
 
@@ -136,4 +136,4 @@ KiCad schematic + layout. PCBA rework. Debugging. Test plans. Harnessing.
 
 #### Misc.
 
-Jazz bass. Cooking. Lindy hop.
+Lindy hop. Jazz bass. Cooking.
