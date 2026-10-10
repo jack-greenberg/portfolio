@@ -76,7 +76,7 @@ I live in Seattle.
 
 I play jazz bass and swing dance.
 
-And I have to cats I adore.
+And I have two cats I adore.
 </div>
 <div>
 <img src="cats.jpeg" />
